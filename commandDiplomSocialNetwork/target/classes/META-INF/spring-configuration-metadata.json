@@ -1,0 +1,42 @@
+{
+  "groups": [
+    {
+      "name": "spring.mail",
+      "type": "org.proteam24.zeroneapplication.config.mail.MailParam",
+      "sourceType": "org.proteam24.zeroneapplication.config.mail.MailParam"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.mail.debug",
+      "type": "java.lang.String",
+      "sourceType": "org.proteam24.zeroneapplication.config.mail.MailParam"
+    },
+    {
+      "name": "spring.mail.host",
+      "type": "java.lang.String",
+      "sourceType": "org.proteam24.zeroneapplication.config.mail.MailParam"
+    },
+    {
+      "name": "spring.mail.password",
+      "type": "java.lang.String",
+      "sourceType": "org.proteam24.zeroneapplication.config.mail.MailParam"
+    },
+    {
+      "name": "spring.mail.port",
+      "type": "java.lang.Integer",
+      "sourceType": "org.proteam24.zeroneapplication.config.mail.MailParam"
+    },
+    {
+      "name": "spring.mail.protocol",
+      "type": "java.lang.String",
+      "sourceType": "org.proteam24.zeroneapplication.config.mail.MailParam"
+    },
+    {
+      "name": "spring.mail.username",
+      "type": "java.lang.String",
+      "sourceType": "org.proteam24.zeroneapplication.config.mail.MailParam"
+    }
+  ],
+  "hints": []
+}
